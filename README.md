@@ -121,7 +121,7 @@ The models are evaluated based on metrics such as accuracy, precision, recall, a
 
 Results
 
-The best-performing model achieves an accuracy of XX% on the test set.
+The best-performing model achieves an accuracy of 78% on the test set.
 
 Contributing
 
